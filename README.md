@@ -22,18 +22,18 @@ LLM の「中身」をゼロから手で作って理解するためのハンズ�
 
 LLM が「どう作られているか」を、データ準備から学習済みモデルになるまで通しで体験する。
 
-1. [事前学習 (Pre-training)](./chapters/formation/01-pretraining/)
-2. [ファインチューニング (Fine-tuning)](./chapters/formation/02-finetuning/)
-3. [強化学習 (RLHF / DPO / GRPO)](./chapters/formation/03-reinforcement-learning/)
-4. [推論 (Inference)](./chapters/formation/04-inference/)
+1. [事前学習 (Pre-training)](./chapters/01-pretraining/)
+2. [ファインチューニング (Fine-tuning)](./chapters/02-finetuning/)
+3. [強化学習 (RLHF / DPO / GRPO)](./chapters/03-reinforcement-learning/)
+4. [推論 (Inference)](./chapters/04-inference/)
 
 ### Phase 2: 応用編（順次更新）
 
 学習済みの LLM を「どう使い倒すか」を、最小実装から本格的なエージェント化まで段階的に扱う。
 
-5. [Tool Use](./chapters/application/05-tool-use/)
-6. [RAG (Retrieval-Augmented Generation)](./chapters/application/06-rag/)
-7. [記憶 (Memory)](./chapters/application/07-memory/)
+5. [Tool Use](./chapters/05-tool-use/)
+6. [RAG (Retrieval-Augmented Generation)](./chapters/06-rag/)
+7. [記憶 (Memory)](./chapters/07-memory/)
 
 ## 各章の構成
 

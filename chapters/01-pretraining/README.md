@@ -37,7 +37,7 @@
 - `walkthrough.ipynb`: 講師実装ノートブック（Colab 想定）
 - `exercise.ipynb`: 穴埋め演習
 - `solution.ipynb`: 演習解答
-- `references.md`: 参照論文と発展リソース
+- `references/`: 参照論文と発展リソース
 
 ## 成果物
 

@@ -26,7 +26,7 @@
 - `theory.md`
 - `walkthrough.ipynb`
 - `exercise.ipynb` / `solution.ipynb`
-- `references.md`
+- `references/`
 
 ## 成果物
 
